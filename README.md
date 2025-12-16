@@ -1,3 +1,8 @@
+# This is a clone of someone else's repository. I made it for you since I want to see how the official version works. You can check it out at the link below
+
+* [Original](https://github.com/Manuteaa/dbd_autoSkillCheck)
+
+
 # Disclaimer
 
 **This project is intended for research and educational purposes in the field of deep learning and how computer vision AI can help in video games.**
@@ -8,12 +13,6 @@ Using it may violate game rules and trigger anti-cheat detection. The author is 
 
 The Dead by Daylight Auto Skill Check is a tool developed using AI (deep learning with PyTorch) to automatically detect and successfully hit skill checks in the popular game Dead by Daylight.
 This tool is designed to demonstrate how AI can improve gameplay performance and enhance the player's success rate in the game.
-
-
-| Demo (x2 speed) |
-|-------------------------------------------------------------------|
-| ![demo](images/demo.gif "demo")                                   |
-
 
 <!-- TOC -->
 * [Disclaimer](#disclaimer)
@@ -249,7 +248,4 @@ In conclusion, our model achieves high accuracy thanks to the high-quality datas
 
 The project was made and is maintained by me ([Manuteaa](https://github.com/Manuteaa)). If you enjoy this project, consider giving it a ⭐! Starring the repository helps others discover it, and shows support for the work put into it. Your stars motivate me to add new features and address any bugs.
 
-Feel free to open a new issue for any question, suggestion or issue. You can also join the discord server https://discord.gg/3mewehHHpZ for more info and help.
-
-- A big thanks to [hemlock12](https://github.com/hemlock12) for the data collection help !
-- Thanks to Aaron for the big help with the discord server !
+Feel free to open a new issue for any question, suggestion or issue. You can also join the discord server https://discord.gg/3mewehHHpZ for more info and help
